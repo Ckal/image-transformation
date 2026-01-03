@@ -1,0 +1,6 @@
+transformers>=4.35.0
+diffusers
+accelerate
+opencv-python
+torch
+gradio>=4.0.0
